@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "authsrocess",
+        "uuid": 426816,
+        "checksum": "oeq06"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
